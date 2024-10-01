@@ -1,6 +1,5 @@
 package interfaces;
 
-probandoactualizaciones
 
     public class Main {
     public static void main(String[] args) {
@@ -11,5 +10,6 @@ probandoactualizaciones
         reproductor.play();     // Debería iniciar la reproducción
         reproductor.bucle();    // Cambiar a bucle infinito
         reproductor.stop();     // Detener la reproducción
+         System.out.println("Probando actualizaciones.");
     }
 }
