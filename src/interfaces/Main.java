@@ -1,5 +1,6 @@
 package interfaces;
 
+probandoactualizaciones
 
     public class Main {
     public static void main(String[] args) {
@@ -12,5 +13,3 @@ package interfaces;
         reproductor.stop();     // Detener la reproducción
     }
 }
-
-probandoactualizaciones
